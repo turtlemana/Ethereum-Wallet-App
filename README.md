@@ -1,3 +1,9 @@
+This is my first Blockchain app, using React.js, Next.js, and Ethers.js
+
+By pushing a button, you can create random private key, and address.
+
+You can also send ropsten test ethers to other accounts
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ![walletapp](https://user-images.githubusercontent.com/75458741/165043231-af43de9c-e7a3-4fb3-bad1-a4933ea82055.PNG)
